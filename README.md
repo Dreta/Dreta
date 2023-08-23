@@ -1,16 +1,16 @@
-### Hi there 👋
+```
+hi ;) i'm dreta.
+```
 
-<!--
-**Dreta/Dreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student and a hobbyist developer.
 
-Here are some ideas to get you started:
+**Find me**:
+* Email: hello *(at)* dreta *(dot)* dev
+* Twitter: [@TweetDreta](https://twitter.com/TweetDreta)
+* GitHub: [Dreta](https://github.com/Dreta)
+* Reddit: [u/RedditDreta](https://reddit.com/u/RedditDreta)
+* Discord: [ChatDreta](https://discord.com/users/429946675012829184)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm listening to**:
+
+[![Music on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tcenbwbrdz4kp5ytroswovjrqm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tcenbwbrdz4kp5ytroswovjrqm&redirect=true)
