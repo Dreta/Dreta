@@ -6,7 +6,7 @@ I'm a high school student and a hobbyist developer.
 
 **Find me**:
 * Email: mail *(at)* dreta.dev
-  * Please send information regarding academic opportunities and educational affairs to academy *(at)* dreta.dev.
+  * Please send information regarding academic opportunities and educational affairs to academic *(at)* dreta.dev.
 * Twitter: [@TweetDreta](https://twitter.com/TweetDreta)
 * GitHub: [Dreta](https://github.com/Dreta)
 * Reddit: [u/RedditDreta](https://reddit.com/u/RedditDreta)
