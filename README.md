@@ -1,16 +1,13 @@
 ```
-hi ;) i'm dreta.
+Hello!!
 ```
 
-I'm a high school student and a hobbyist developer.
+I'm a high school student.
 
 **Find me**:
 * Email: `mail (at) dreta.dev`
-  * Please send information regarding academic opportunities and educational affairs to `academic (at) dreta.dev`.
 * Twitter: [@TweetDreta](https://twitter.com/TweetDreta)
-* GitHub: [Dreta](https://github.com/Dreta)
-* Reddit: [u/RedditDreta](https://reddit.com/u/RedditDreta)
-* Discord: [ChatDreta](https://discord.com/users/429946675012829184)
+* Blog: [https://dreta.dev/](https://dreta.dev)
 
 **I'm listening to** (or I have listened to):
 
